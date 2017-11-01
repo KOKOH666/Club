@@ -8,9 +8,6 @@
         <link href="css/style_index.css" rel="stylesheet" type="text/css">
     </head>
  <body>      
- 
- 
- 
   <jsp:include page="/pages/template.jsp">
   <jsp:param name="title" value="Template"/>
 </jsp:include>
