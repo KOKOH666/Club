@@ -1,0 +1,169 @@
+ body {
+    font: 10pt Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
+     background-image: url(../images/fon.jpg);
+    background-color: #000000; /* Цвет фона */
+   }
+   
+ P.fig {
+    text-align: left; /* Выравнивание по центру */
+    margin-left: 20px;
+   }
+   
+   table.fig2 {
+    width:100%;
+    color: #ffffff;
+   }
+   
+    table.fig3 {
+    width:100%;
+    color: #ffffff;
+    line-height: 1.5;
+    
+     
+    
+   }
+   
+   table.fig3.td{
+    margin-top: 30px;
+    color: #ff0000;
+   }
+   
+   
+   
+   
+   
+   .button{text-decoration:none; text-align:center; 
+ padding:11px 32px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:50px;
+ -moz-border-radius:50px; 
+ border-radius: 50px; 
+ font:18px "MS Serif", "New York", serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background-color:#3ebcf7; 
+ background-image: -moz-linear-gradient(top, #3ebcf7 0%, #087296 100%); 
+ background-image: -webkit-linear-gradient(top, #3ebcf7 0%, #087296 100%); 
+ background-image: -o-linear-gradient(top, #3ebcf7 0%, #087296 100%); 
+ background-image: -ms-linear-gradient(top, #3ebcf7 0% ,#087296 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#087296', endColorstr='#087296',GradientType=0 ); 
+ background-image: linear-gradient(top, #3ebcf7 0% ,#087296 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #000000; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 20px #000000;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #000000;  
+  
+ text-shadow: 0px 0px 20px #000000; 
+ filter: dropshadow(color=#000000, offx=0, offy=0);  -webkit-transition: all 0.5s ease;
+ -moz-transition:  all 0.5s ease;
+ -o-transition:  all 0.5s ease;
+ transition:  all 0.5s ease;}
+ .button:hover{
+ padding:11px 32px; 
+ border:solid 1px #ffffff; 
+ -webkit-border-radius:50px;
+ -moz-border-radius:50px; 
+ border-radius: 50px; 
+ font:18px "MS Serif", "New York", serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background-color:#3ebcf7; 
+ background-image: -moz-linear-gradient(top, #3ebcf7 0%, #087396 100%); 
+ background-image: -webkit-linear-gradient(top, #3ebcf7 0%, #087396 100%); 
+ background-image: -o-linear-gradient(top, #3ebcf7 0%, #087396 100%); 
+ background-image: -ms-linear-gradient(top, #3ebcf7 0% ,#087396 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#087396', endColorstr='#087396',GradientType=0 ); 
+ background-image: linear-gradient(top, #3ebcf7 0% ,#087396 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 20px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff;  
+  
+ text-shadow: 0px 0px 20px #000000; 
+ filter: dropshadow(color=#000000, offx=0, offy=0);}
+ .button:active{
+ padding:11px 32px; 
+ border:solid 1px #005072; 
+ -webkit-border-radius:50px;
+ -moz-border-radius:50px; 
+ border-radius: 50px; 
+ font:18px "MS Serif", "New York", serif; 
+ font-weight:bold; 
+ color:#8f0000; 
+ background-color:#3ebcf7; 
+ background-image: -moz-linear-gradient(top, #3ebcf7 0%, #087296 100%); 
+ background-image: -webkit-linear-gradient(top, #3ebcf7 0%, #087296 100%); 
+ background-image: -o-linear-gradient(top, #3ebcf7 0%, #087296 100%); 
+ background-image: -ms-linear-gradient(top, #3ebcf7 0% ,#087296 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#087296', endColorstr='#087296',GradientType=0 ); 
+ background-image: linear-gradient(top, #3ebcf7 0% ,#087296 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #000000; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 20px #000000;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #000000;  
+  
+ text-shadow: 0px 0px 20px #000000; 
+ filter: dropshadow(color=#000000, offx=0, offy=0);}
+   
+   h3 {
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    font-size: 1.1em; /* Размер шрифта */
+    color: #ffffff; /* Цвет текста */
+    margin-top: 0; /* Отступ сверху */
+   }
+   
+   
+    h1 {
+    color: #ffffff; /* Цвет текста */
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+   } 
+   p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   
+   
+   h2 {
+   font-size: 0.9em; /* Размер шрифта */
+    color: #ffffff; /* Цвет текста */
+    margin-top: 0; /* Отступ сверху */
+   }
+   #container {
+    width: 1000px; /* Ширина слоя */
+    margin: 0 auto; /* Выравнивание по центру */
+    background: #000000; /* Цвет фона левой колонки */
+   }
+   #header {
+   font-family: Comic Sans, Comic Sans MS, cursive;
+    height: 100px;
+    font-size: 2.2em; /* Размер текста */
+    text-align: center; /* Выравнивание по центру */
+    padding: 5px; /* Отступы вокруг текста */
+    background: #000000; /* Цвет фона шапки */
+    color: #ffffff; /* Цвет текста */
+   
+   }
+   #sidebar {
+    text-align: center;
+   height: 600px;
+   margin-top: 30px;
+    width: 200px; /* Ширина слоя */
+    padding: 0 10px; /* Отступы вокруг текста */
+    float: left; /* Обтекание по правому краю */
+   }
+   #content {
+   height: 600px;
+   margin-top: 20px;
+    margin-left: 220px; /* Отступ слева */
+    padding: 10px; /* Поля вокруг текста */
+    text-align: center; /* Выравнивание по центру */
+    background: #000000; /* Цвет фона правой колонки */
+    color: white;
+   }
+   #footer {
+   margin-top: 100px; 
+    background: #000000; /* Цвет фона подвала */
+    color: #fff; /* Цвет текста */
+    padding: 5px; /* Отступы вокруг текста */
+    clear: left; /* Отменяем действие float */
+   }
+   
+   
+   
+   
