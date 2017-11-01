@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Авто Клуб Новые Дома</title>
+        <title>Авто Клуб Новые Дома Да !</title>
         <link href="css/style_index.css" rel="stylesheet" type="text/css">
 </head>
 <body>
