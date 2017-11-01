@@ -4,10 +4,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
         <title>Авто Клуб Новые Дома дулула</title>
+
         <link href="css/style_index.css" rel="stylesheet" type="text/css">
     </head>
- <body>  
+ <body>      
   <jsp:include page="/pages/template.jsp">
   <jsp:param name="title" value="Template"/>
 </jsp:include>
